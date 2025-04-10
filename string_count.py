@@ -12,6 +12,6 @@ for i in n:
 print("Consonents:",c)
 print("vowels:",v)
 print("white spaces:",ws)
-
+#  Palindrome--------------------
 str1=input("Enter a string:")
 print("It is a Palindrome"if str1==str1[::-1]else "not a palindrome")
